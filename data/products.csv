@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,stock_quantity
+101,Notebook,Stationery,15.08,449
+102,USB Cable,Electronics,16.23,37
+103,Desk Lamp,Home & Living,20.59,182
+104,Backpack,Accessories,33.49,367
+105,Notebook,Stationery,14.19,146
+106,Water Bottle,Home & Living,9.14,269
+107,Smartphone Case,Electronics,10.98,211
+108,Notebook,Stationery,14.67,54
+109,Wireless Mouse,Electronics,13.83,43
+110,Wireless Mouse,Electronics,13.94,449
+111,Smartphone Case,Electronics,9.5,447
+112,Highlighter Set,Stationery,5.99,361
+113,Backpack,Accessories,34.78,22
+114,Wireless Mouse,Electronics,14.63,207
+115,Smartphone Case,Electronics,10.36,408
+116,Wireless Mouse,Electronics,14.45,173
+117,Wireless Mouse,Electronics,15.2,256
+118,Smartphone Case,Electronics,9.54,131
+119,Smartphone Case,Electronics,9.24,141
+120,Notebook,Stationery,14.7,321
+121,Notebook,Stationery,14.09,316
+122,USB Cable,Electronics,15.02,87
+123,Water Bottle,Home & Living,10.64,424
+124,Backpack,Accessories,35.03,168
+125,Water Bottle,Home & Living,10.96,30
+126,Wireless Mouse,Electronics,16.37,181
+127,Backpack,Accessories,32.69,33
+128,Wireless Mouse,Electronics,16.19,382
+129,Smartphone Case,Electronics,10.41,152
+130,Smartphone Case,Electronics,9.79,497
+131,Notebook,Stationery,13.65,76
+132,USB Cable,Electronics,16.35,472
+133,Highlighter Set,Stationery,6.12,421
+134,Backpack,Accessories,32.39,283
+135,Wireless Mouse,Electronics,14.22,460
+136,Highlighter Set,Stationery,5.9,251
+137,Bluetooth Speaker,Electronics,18.05,63
+138,Notebook,Stationery,15.67,168
+139,Highlighter Set,Stationery,6.22,196
+140,Notebook,Stationery,15.74,82
+141,Notebook,Stationery,14.21,67
+142,Pen Set,Stationery,13.38,152
+143,Desk Lamp,Home & Living,24.15,333
+144,Desk Lamp,Home & Living,22.53,69
+145,Notebook,Stationery,13.52,155
+146,USB Cable,Electronics,16.66,178
+147,Bluetooth Speaker,Electronics,20.78,231
+148,Bluetooth Speaker,Electronics,19.13,435
+149,Backpack,Accessories,36.3,158
+150,Bluetooth Speaker,Electronics,18.39,485
+151,Pen Set,Stationery,12.69,117
+152,Wireless Mouse,Electronics,15.91,226
+153,Smartphone Case,Electronics,10.73,36
+154,Notebook,Stationery,16.38,363
+155,Bluetooth Speaker,Electronics,18.57,453
+156,Smartphone Case,Electronics,10.78,374
+157,Highlighter Set,Stationery,6.16,385
+158,Highlighter Set,Stationery,6.09,455
+159,Bluetooth Speaker,Electronics,18.56,36
+160,Desk Lamp,Home & Living,21.32,67
+161,Wireless Mouse,Electronics,14.07,115
+162,Wireless Mouse,Electronics,15.88,69
+163,USB Cable,Electronics,16.58,147
+164,Bluetooth Speaker,Electronics,20.73,499
+165,Desk Lamp,Home & Living,22.01,117
+166,Water Bottle,Home & Living,9.26,309
+167,Highlighter Set,Stationery,6.44,430
+168,Highlighter Set,Stationery,6.41,270
+169,Bluetooth Speaker,Electronics,21.42,14
+170,Bluetooth Speaker,Electronics,18.67,260
+171,Highlighter Set,Stationery,6.13,271
+172,USB Cable,Electronics,16.76,236
+173,Water Bottle,Home & Living,10.31,232
+174,Water Bottle,Home & Living,9.21,387
+175,Pen Set,Stationery,13.87,40
+176,Desk Lamp,Home & Living,22.35,139
+177,Highlighter Set,Stationery,6.47,487
+178,Bluetooth Speaker,Electronics,19.42,66
+179,Desk Lamp,Home & Living,21.57,223
+180,Water Bottle,Home & Living,9.66,343
+181,Pen Set,Stationery,13.55,427
+182,USB Cable,Electronics,16.74,291
+183,Highlighter Set,Stationery,5.91,297
+184,Bluetooth Speaker,Electronics,19.29,199
+185,Notebook,Stationery,16.44,170
+186,Notebook,Stationery,14.37,103
+187,Pen Set,Stationery,12.52,456
+188,Backpack,Accessories,38.21,127
+189,Bluetooth Speaker,Electronics,20.78,93
+190,Desk Lamp,Home & Living,24.02,171
+191,Backpack,Accessories,31.71,352
+192,Desk Lamp,Home & Living,24.35,386
+193,Notebook,Stationery,15.76,220
+194,Pen Set,Stationery,12.18,352
+195,Smartphone Case,Electronics,10.95,183
+196,Notebook,Stationery,15.77,260
+197,Bluetooth Speaker,Electronics,21.66,390
+198,Bluetooth Speaker,Electronics,21.44,284
+199,USB Cable,Electronics,16.14,359
+200,Notebook,Stationery,15.1,440
+201,Water Bottle,Home & Living,9.47,36
+202,Highlighter Set,Stationery,6.19,379
+203,USB Cable,Electronics,15.39,353
+204,Wireless Mouse,Electronics,16.43,279
+205,Water Bottle,Home & Living,9.95,173
+206,Notebook,Stationery,13.59,483
+207,Water Bottle,Home & Living,10.62,341
+208,Desk Lamp,Home & Living,24.24,107
+209,Desk Lamp,Home & Living,21.89,436
+210,Highlighter Set,Stationery,5.64,266
+211,Backpack,Accessories,36.9,148
+212,Backpack,Accessories,32.22,237
+213,Backpack,Accessories,37.19,200
+214,Highlighter Set,Stationery,5.63,192
+215,Backpack,Accessories,31.94,302
+216,Smartphone Case,Electronics,10.81,496
+217,Water Bottle,Home & Living,9.23,105
+218,Backpack,Accessories,34.79,47
+219,Desk Lamp,Home & Living,23.12,395
+220,Notebook,Stationery,15.27,429
+221,Notebook,Stationery,14.86,189
+222,Bluetooth Speaker,Electronics,20.35,87
+223,Backpack,Accessories,31.93,431
+224,Desk Lamp,Home & Living,21.41,486
+225,Desk Lamp,Home & Living,20.4,21
+226,Water Bottle,Home & Living,10.63,102
+227,USB Cable,Electronics,17.23,343
+228,Notebook,Stationery,15.7,321
+229,Highlighter Set,Stationery,6.29,36
+230,Bluetooth Speaker,Electronics,19.33,146
+231,Highlighter Set,Stationery,5.84,282
+232,USB Cable,Electronics,16.3,415
+233,Water Bottle,Home & Living,9.44,321
+234,USB Cable,Electronics,17.34,258
+235,Highlighter Set,Stationery,5.71,449
+236,Smartphone Case,Electronics,10.88,352
+237,Highlighter Set,Stationery,5.52,170
+238,Smartphone Case,Electronics,10.36,257
+239,Notebook,Stationery,13.55,305
+240,Notebook,Stationery,16.32,31
+241,Highlighter Set,Stationery,6.52,100
+242,Highlighter Set,Stationery,5.99,220
+243,Backpack,Accessories,35.46,276
+244,Pen Set,Stationery,13.0,355
+245,Pen Set,Stationery,13.23,162
+246,Wireless Mouse,Electronics,14.23,268
+247,Highlighter Set,Stationery,6.02,406
+248,Water Bottle,Home & Living,10.74,39
+249,Wireless Mouse,Electronics,14.72,110
+250,Highlighter Set,Stationery,5.64,223
+251,Notebook,Stationery,15.4,398
+252,Desk Lamp,Home & Living,22.66,399
+253,Water Bottle,Home & Living,10.85,153
+254,Backpack,Accessories,37.11,109
+255,USB Cable,Electronics,14.82,414
+256,Desk Lamp,Home & Living,21.03,456
+257,Water Bottle,Home & Living,10.97,318
+258,Smartphone Case,Electronics,9.48,312
+259,Water Bottle,Home & Living,10.41,31
+260,Notebook,Stationery,13.6,203
+261,Wireless Mouse,Electronics,16.44,64
+262,Backpack,Accessories,37.16,116
+263,USB Cable,Electronics,16.19,13
+264,Smartphone Case,Electronics,10.93,45
+265,Bluetooth Speaker,Electronics,21.85,108
+266,USB Cable,Electronics,15.62,486
+267,Highlighter Set,Stationery,5.73,440
+268,Notebook,Stationery,14.13,218
+269,Desk Lamp,Home & Living,24.25,472
+270,Smartphone Case,Electronics,10.85,312
+271,Pen Set,Stationery,13.14,193
+272,Water Bottle,Home & Living,10.14,30
+273,Pen Set,Stationery,12.61,263
+274,Desk Lamp,Home & Living,23.1,406
+275,Desk Lamp,Home & Living,24.34,60
+276,Desk Lamp,Home & Living,22.13,89
+277,USB Cable,Electronics,16.46,347
+278,Desk Lamp,Home & Living,24.09,253
+279,USB Cable,Electronics,15.96,74
+280,USB Cable,Electronics,16.41,389
+281,Pen Set,Stationery,11.76,121
+282,Backpack,Accessories,33.6,470
+283,Smartphone Case,Electronics,10.55,230
+284,Notebook,Stationery,13.73,325
+285,USB Cable,Electronics,16.94,107
+286,Notebook,Stationery,14.36,137
+287,Desk Lamp,Home & Living,22.92,281
+288,Pen Set,Stationery,12.56,435
+289,USB Cable,Electronics,16.58,87
+290,USB Cable,Electronics,15.37,285
+291,USB Cable,Electronics,17.35,163
+292,Highlighter Set,Stationery,6.56,147
+293,Wireless Mouse,Electronics,13.82,13
+294,Pen Set,Stationery,12.89,54
+295,Bluetooth Speaker,Electronics,20.12,182
+296,Wireless Mouse,Electronics,14.38,10
+297,USB Cable,Electronics,14.84,38
+298,Backpack,Accessories,32.5,343
+299,Bluetooth Speaker,Electronics,21.19,495
+300,Smartphone Case,Electronics,10.43,90
+301,Desk Lamp,Home & Living,20.47,411
+302,Bluetooth Speaker,Electronics,18.5,494
+303,Pen Set,Stationery,12.27,447
+304,Pen Set,Stationery,13.37,152
+305,USB Cable,Electronics,15.9,34
+306,Water Bottle,Home & Living,10.12,363
+307,Water Bottle,Home & Living,9.46,145
+308,Desk Lamp,Home & Living,21.2,229
+309,Pen Set,Stationery,12.54,314
+310,Wireless Mouse,Electronics,14.04,323
+311,Wireless Mouse,Electronics,15.2,136
+312,Desk Lamp,Home & Living,22.81,24
+313,Desk Lamp,Home & Living,22.44,337
+314,Desk Lamp,Home & Living,23.99,168
+315,Pen Set,Stationery,13.27,306
+316,Notebook,Stationery,15.56,380
+317,Water Bottle,Home & Living,9.44,403
+318,Desk Lamp,Home & Living,21.58,383
+319,Highlighter Set,Stationery,5.88,401
+320,Pen Set,Stationery,11.82,83
+321,Backpack,Accessories,33.68,422
+322,Bluetooth Speaker,Electronics,19.59,339
+323,Smartphone Case,Electronics,10.52,201
+324,Smartphone Case,Electronics,10.2,273
+325,Backpack,Accessories,36.81,11
+326,Pen Set,Stationery,11.69,127
+327,Water Bottle,Home & Living,9.42,467
+328,Water Bottle,Home & Living,10.97,377
+329,Pen Set,Stationery,13.93,127
+330,Smartphone Case,Electronics,9.95,435
+331,USB Cable,Electronics,15.45,290
+332,USB Cable,Electronics,17.45,129
+333,Backpack,Accessories,35.75,379
+334,Bluetooth Speaker,Electronics,18.62,363
+335,Desk Lamp,Home & Living,21.4,265
+336,Smartphone Case,Electronics,10.72,314
+337,Notebook,Stationery,15.0,298
+338,Smartphone Case,Electronics,10.94,23
+339,Notebook,Stationery,13.92,232
+340,Water Bottle,Home & Living,10.86,192
+341,Water Bottle,Home & Living,10.77,350
+342,Pen Set,Stationery,13.6,361
+343,Desk Lamp,Home & Living,22.52,65
+344,Highlighter Set,Stationery,6.41,471
+345,Notebook,Stationery,14.2,249
+346,USB Cable,Electronics,14.5,304
+347,Highlighter Set,Stationery,5.73,226
+348,Water Bottle,Home & Living,10.06,356
+349,Pen Set,Stationery,11.99,369
+350,Highlighter Set,Stationery,6.38,221
+351,Wireless Mouse,Electronics,14.99,134
+352,USB Cable,Electronics,16.78,282
+353,Notebook,Stationery,15.83,252
+354,Smartphone Case,Electronics,9.31,238
+355,Bluetooth Speaker,Electronics,20.94,152
+356,Pen Set,Stationery,11.95,353
+357,Backpack,Accessories,36.68,314
+358,Pen Set,Stationery,13.48,449
+359,Notebook,Stationery,15.32,229
+360,Desk Lamp,Home & Living,21.11,423
+361,Desk Lamp,Home & Living,22.88,313
+362,Wireless Mouse,Electronics,13.92,239
+363,Notebook,Stationery,16.46,380
+364,Bluetooth Speaker,Electronics,21.25,105
+365,Bluetooth Speaker,Electronics,19.74,401
+366,Water Bottle,Home & Living,9.56,239
+367,Highlighter Set,Stationery,5.67,443
+368,Wireless Mouse,Electronics,15.89,426
+369,USB Cable,Electronics,14.56,272
+370,USB Cable,Electronics,16.62,407
+371,Smartphone Case,Electronics,10.24,313
+372,Backpack,Accessories,31.63,259
+373,Notebook,Stationery,14.89,249
+374,Wireless Mouse,Electronics,14.44,478
+375,USB Cable,Electronics,14.78,400
+376,Desk Lamp,Home & Living,22.24,223
+377,Water Bottle,Home & Living,9.03,460
+378,Smartphone Case,Electronics,10.48,30
+379,Highlighter Set,Stationery,6.02,181
+380,Pen Set,Stationery,11.7,192
+381,Backpack,Accessories,38.02,160
+382,Notebook,Stationery,15.0,390
+383,USB Cable,Electronics,15.88,149
+384,Desk Lamp,Home & Living,21.99,161
+385,Desk Lamp,Home & Living,24.6,58
+386,Smartphone Case,Electronics,9.05,429
+387,Pen Set,Stationery,11.96,167
+388,Water Bottle,Home & Living,9.48,12
+389,Water Bottle,Home & Living,10.91,317
+390,Highlighter Set,Stationery,5.96,473
+391,Smartphone Case,Electronics,10.03,286
+392,Backpack,Accessories,38.23,407
+393,Highlighter Set,Stationery,6.09,430
+394,Wireless Mouse,Electronics,13.98,73
+395,Backpack,Accessories,35.54,127
+396,Water Bottle,Home & Living,9.07,124
+397,Highlighter Set,Stationery,5.91,246
+398,Pen Set,Stationery,12.7,481
+399,USB Cable,Electronics,14.57,336
+400,Desk Lamp,Home & Living,24.3,10
+401,Backpack,Accessories,33.66,166
+402,Backpack,Accessories,34.73,217
+403,Notebook,Stationery,15.67,138
+404,Water Bottle,Home & Living,9.02,190
+405,Smartphone Case,Electronics,9.78,283
+406,Desk Lamp,Home & Living,24.61,150
+407,Wireless Mouse,Electronics,16.14,96
+408,Smartphone Case,Electronics,9.21,363
+409,Smartphone Case,Electronics,10.12,487
+410,Highlighter Set,Stationery,5.4,380
+411,USB Cable,Electronics,14.4,411
+412,Water Bottle,Home & Living,10.65,362
+413,Notebook,Stationery,13.88,283
+414,Wireless Mouse,Electronics,15.94,383
+415,Notebook,Stationery,14.57,495
+416,Water Bottle,Home & Living,10.91,136
+417,Backpack,Accessories,35.78,368
+418,Bluetooth Speaker,Electronics,19.15,486
+419,Backpack,Accessories,31.89,61
+420,Desk Lamp,Home & Living,23.22,474
+421,Notebook,Stationery,14.78,288
+422,USB Cable,Electronics,16.68,266
+423,Bluetooth Speaker,Electronics,20.66,412
+424,Pen Set,Stationery,13.57,276
+425,Highlighter Set,Stationery,5.43,335
+426,Wireless Mouse,Electronics,16.22,39
+427,USB Cable,Electronics,14.93,211
+428,Highlighter Set,Stationery,5.75,179
+429,USB Cable,Electronics,17.4,377
+430,Backpack,Accessories,32.89,59
+431,Notebook,Stationery,16.28,382
+432,Smartphone Case,Electronics,10.64,103
+433,Notebook,Stationery,13.76,408
+434,Bluetooth Speaker,Electronics,21.03,452
+435,Bluetooth Speaker,Electronics,21.35,419
+436,USB Cable,Electronics,16.22,491
+437,Smartphone Case,Electronics,9.35,366
+438,Wireless Mouse,Electronics,14.55,352
+439,Highlighter Set,Stationery,6.48,366
+440,Water Bottle,Home & Living,10.32,243
+441,Bluetooth Speaker,Electronics,19.64,301
+442,Water Bottle,Home & Living,10.12,191
+443,Desk Lamp,Home & Living,21.84,411
+444,Water Bottle,Home & Living,9.07,170
+445,Water Bottle,Home & Living,9.14,431
+446,Backpack,Accessories,33.59,346
+447,Notebook,Stationery,13.75,59
+448,Wireless Mouse,Electronics,15.18,259
+449,Wireless Mouse,Electronics,13.56,170
+450,Backpack,Accessories,36.79,420
+451,Bluetooth Speaker,Electronics,19.61,98
+452,Highlighter Set,Stationery,5.98,287
+453,Pen Set,Stationery,14.23,266
+454,Wireless Mouse,Electronics,15.08,195
+455,Pen Set,Stationery,12.78,25
+456,Smartphone Case,Electronics,9.63,243
+457,Highlighter Set,Stationery,6.2,96
+458,Wireless Mouse,Electronics,15.39,343
+459,Backpack,Accessories,34.24,371
+460,Notebook,Stationery,14.11,199
+461,Pen Set,Stationery,12.42,340
+462,Backpack,Accessories,33.99,111
+463,Bluetooth Speaker,Electronics,19.6,448
+464,Wireless Mouse,Electronics,14.84,80
+465,Pen Set,Stationery,12.83,94
+466,Desk Lamp,Home & Living,24.57,468
+467,Backpack,Accessories,34.14,44
+468,Smartphone Case,Electronics,10.41,184
+469,Smartphone Case,Electronics,10.38,449
+470,Backpack,Accessories,35.15,49
+471,Bluetooth Speaker,Electronics,20.66,82
+472,Backpack,Accessories,34.71,98
+473,Pen Set,Stationery,11.86,128
+474,Notebook,Stationery,16.45,89
+475,Highlighter Set,Stationery,5.58,414
+476,Desk Lamp,Home & Living,24.44,336
+477,USB Cable,Electronics,15.35,129
+478,Highlighter Set,Stationery,6.01,354
+479,Pen Set,Stationery,11.8,330
+480,Pen Set,Stationery,12.97,310
+481,Wireless Mouse,Electronics,15.01,313
+482,USB Cable,Electronics,17.48,323
+483,Water Bottle,Home & Living,10.38,344
+484,Smartphone Case,Electronics,9.02,73
+485,Backpack,Accessories,36.86,305
+486,Backpack,Accessories,34.98,301
+487,Wireless Mouse,Electronics,16.06,119
+488,Bluetooth Speaker,Electronics,18.88,280
+489,Wireless Mouse,Electronics,15.33,160
+490,Notebook,Stationery,15.2,187
+491,Pen Set,Stationery,12.36,313
+492,Water Bottle,Home & Living,10.88,57
+493,Notebook,Stationery,14.02,288
+494,Pen Set,Stationery,12.34,313
+495,Backpack,Accessories,37.91,66
+496,Water Bottle,Home & Living,9.34,472
+497,Backpack,Accessories,31.85,236
+498,Pen Set,Stationery,12.55,312
+499,Desk Lamp,Home & Living,23.05,365
+500,Notebook,Stationery,13.87,459
+501,Wireless Mouse,Electronics,16.04,359
+502,Wireless Mouse,Electronics,13.66,374
+503,Desk Lamp,Home & Living,21.65,237
+504,Pen Set,Stationery,12.55,374
+505,Pen Set,Stationery,14.24,324
+506,Pen Set,Stationery,13.91,92
+507,Smartphone Case,Electronics,10.52,341
+508,Notebook,Stationery,16.45,207
+509,Notebook,Stationery,15.91,47
+510,Water Bottle,Home & Living,9.51,163
+511,Wireless Mouse,Electronics,16.28,456
+512,USB Cable,Electronics,17.16,317
+513,Wireless Mouse,Electronics,14.75,494
+514,Bluetooth Speaker,Electronics,18.72,64
+515,Highlighter Set,Stationery,5.84,112
+516,Bluetooth Speaker,Electronics,19.55,208
+517,Water Bottle,Home & Living,9.05,400
+518,Wireless Mouse,Electronics,14.98,283
+519,Wireless Mouse,Electronics,15.98,284
+520,Wireless Mouse,Electronics,16.24,233
+521,Smartphone Case,Electronics,10.38,458
+522,Wireless Mouse,Electronics,14.53,243
+523,USB Cable,Electronics,16.56,423
+524,Pen Set,Stationery,13.32,395
+525,USB Cable,Electronics,14.96,231
+526,Highlighter Set,Stationery,6.43,467
+527,Highlighter Set,Stationery,5.94,26
+528,Notebook,Stationery,13.89,480
+529,Bluetooth Speaker,Electronics,18.99,243
+530,Water Bottle,Home & Living,10.71,164
+531,Desk Lamp,Home & Living,21.98,37
+532,Pen Set,Stationery,13.95,39
+533,Wireless Mouse,Electronics,14.63,305
+534,Desk Lamp,Home & Living,23.43,125
+535,Smartphone Case,Electronics,10.06,67
+536,USB Cable,Electronics,16.24,162
+537,Smartphone Case,Electronics,10.66,322
+538,USB Cable,Electronics,17.41,276
+539,Highlighter Set,Stationery,5.77,335
+540,Highlighter Set,Stationery,6.44,329
+541,Pen Set,Stationery,12.27,148
+542,Pen Set,Stationery,11.78,121
+543,Pen Set,Stationery,14.26,201
+544,Smartphone Case,Electronics,10.19,32
+545,Smartphone Case,Electronics,9.85,329
+546,Water Bottle,Home & Living,9.14,464
+547,Wireless Mouse,Electronics,15.92,214
+548,Desk Lamp,Home & Living,21.48,445
+549,Wireless Mouse,Electronics,14.07,61
+550,Highlighter Set,Stationery,5.66,495
+551,Notebook,Stationery,14.82,98
+552,USB Cable,Electronics,16.0,121
+553,Notebook,Stationery,15.6,139
+554,Backpack,Accessories,36.75,429
+555,Bluetooth Speaker,Electronics,18.81,172
+556,Pen Set,Stationery,12.15,403
+557,Bluetooth Speaker,Electronics,18.45,255
+558,Desk Lamp,Home & Living,20.98,491
+559,Pen Set,Stationery,12.83,215
+560,USB Cable,Electronics,15.01,434
+561,Highlighter Set,Stationery,5.89,317
+562,USB Cable,Electronics,15.55,278
+563,Desk Lamp,Home & Living,20.57,430
+564,Smartphone Case,Electronics,10.97,159
+565,Backpack,Accessories,33.06,21
+566,Pen Set,Stationery,12.18,306
+567,Smartphone Case,Electronics,10.85,398
+568,Smartphone Case,Electronics,9.57,138
+569,Notebook,Stationery,13.56,337
+570,Backpack,Accessories,37.02,366
+571,Wireless Mouse,Electronics,14.95,476
+572,Water Bottle,Home & Living,10.11,96
+573,USB Cable,Electronics,17.33,214
+574,Desk Lamp,Home & Living,24.12,187
+575,Smartphone Case,Electronics,10.16,139
+576,Wireless Mouse,Electronics,14.41,491
+577,Desk Lamp,Home & Living,20.81,468
+578,Pen Set,Stationery,13.02,450
+579,Water Bottle,Home & Living,9.03,214
+580,Backpack,Accessories,36.92,448
+581,Smartphone Case,Electronics,9.05,439
+582,Notebook,Stationery,16.04,347
+583,Desk Lamp,Home & Living,21.44,132
+584,Bluetooth Speaker,Electronics,20.51,266
+585,Bluetooth Speaker,Electronics,20.84,202
+586,Backpack,Accessories,37.98,221
+587,Smartphone Case,Electronics,9.99,457
+588,Smartphone Case,Electronics,9.16,28
+589,Bluetooth Speaker,Electronics,20.86,103
+590,Bluetooth Speaker,Electronics,19.38,300
+591,Desk Lamp,Home & Living,24.55,356
+592,Desk Lamp,Home & Living,23.16,214
+593,Highlighter Set,Stationery,5.77,201
+594,Wireless Mouse,Electronics,15.36,427
+595,Desk Lamp,Home & Living,22.65,359
+596,Bluetooth Speaker,Electronics,19.55,168
+597,Bluetooth Speaker,Electronics,19.76,355
+598,Backpack,Accessories,31.53,162
+599,Pen Set,Stationery,12.64,14
+600,Water Bottle,Home & Living,9.34,169
+601,Pen Set,Stationery,13.86,497
+602,Notebook,Stationery,16.03,307
+603,Highlighter Set,Stationery,5.99,15
+604,Highlighter Set,Stationery,5.72,216
+605,USB Cable,Electronics,14.94,73
+606,Pen Set,Stationery,13.58,55
+607,Highlighter Set,Stationery,5.77,413
+608,Bluetooth Speaker,Electronics,18.58,16
+609,Bluetooth Speaker,Electronics,20.58,210
+610,Bluetooth Speaker,Electronics,18.57,139
+611,Water Bottle,Home & Living,9.13,161
+612,Desk Lamp,Home & Living,22.62,384
+613,Highlighter Set,Stationery,5.67,234
+614,Highlighter Set,Stationery,6.09,271
+615,Desk Lamp,Home & Living,20.51,157
+616,Water Bottle,Home & Living,9.94,384
+617,Backpack,Accessories,33.74,23
+618,Pen Set,Stationery,12.63,457
+619,Bluetooth Speaker,Electronics,21.15,199
+620,Desk Lamp,Home & Living,22.5,227
+621,Desk Lamp,Home & Living,22.55,133
+622,USB Cable,Electronics,15.2,356
+623,Wireless Mouse,Electronics,15.79,437
+624,Desk Lamp,Home & Living,21.94,472
+625,Smartphone Case,Electronics,9.65,310
+626,Smartphone Case,Electronics,10.75,97
+627,USB Cable,Electronics,15.88,131
+628,Smartphone Case,Electronics,9.39,492
+629,Notebook,Stationery,14.03,483
+630,Highlighter Set,Stationery,5.42,44
+631,Notebook,Stationery,16.16,118
+632,Water Bottle,Home & Living,10.45,267
+633,USB Cable,Electronics,15.19,79
+634,Wireless Mouse,Electronics,15.0,158
+635,Pen Set,Stationery,13.91,58
+636,Backpack,Accessories,35.43,123
+637,Highlighter Set,Stationery,6.26,204
+638,USB Cable,Electronics,16.2,375
+639,Smartphone Case,Electronics,9.93,80
+640,Bluetooth Speaker,Electronics,19.23,35
+641,Desk Lamp,Home & Living,20.77,57
+642,USB Cable,Electronics,16.51,362
+643,USB Cable,Electronics,16.43,378
+644,Water Bottle,Home & Living,10.93,370
+645,Bluetooth Speaker,Electronics,20.64,237
+646,Backpack,Accessories,37.73,417
+647,USB Cable,Electronics,16.48,437
+648,USB Cable,Electronics,16.73,330
+649,Desk Lamp,Home & Living,21.74,130
+650,Water Bottle,Home & Living,9.77,70
+651,Smartphone Case,Electronics,10.84,159
+652,Bluetooth Speaker,Electronics,19.22,316
+653,Notebook,Stationery,13.58,246
+654,Bluetooth Speaker,Electronics,20.98,131
+655,Desk Lamp,Home & Living,24.25,328
+656,Pen Set,Stationery,12.97,377
+657,Pen Set,Stationery,12.49,213
+658,Backpack,Accessories,37.7,233
+659,USB Cable,Electronics,16.21,187
+660,Backpack,Accessories,37.69,43
+661,Smartphone Case,Electronics,10.91,28
+662,Notebook,Stationery,16.33,304
+663,USB Cable,Electronics,14.44,158
+664,Bluetooth Speaker,Electronics,19.97,202
+665,Highlighter Set,Stationery,6.13,71
+666,Notebook,Stationery,13.51,253
+667,Smartphone Case,Electronics,9.19,183
+668,Water Bottle,Home & Living,9.74,144
+669,Water Bottle,Home & Living,10.8,337
+670,USB Cable,Electronics,16.68,81
+671,Notebook,Stationery,14.38,147
+672,Water Bottle,Home & Living,9.46,366
+673,Wireless Mouse,Electronics,13.6,95
+674,Smartphone Case,Electronics,10.85,191
+675,Wireless Mouse,Electronics,15.8,264
+676,Desk Lamp,Home & Living,22.18,185
+677,Wireless Mouse,Electronics,13.54,248
+678,Bluetooth Speaker,Electronics,18.53,277
+679,Bluetooth Speaker,Electronics,21.54,234
+680,Desk Lamp,Home & Living,23.71,307
+681,Pen Set,Stationery,13.65,361
+682,Wireless Mouse,Electronics,16.46,165
+683,Desk Lamp,Home & Living,22.46,270
+684,Wireless Mouse,Electronics,13.92,81
+685,Bluetooth Speaker,Electronics,20.26,347
+686,Notebook,Stationery,13.87,440
+687,Smartphone Case,Electronics,10.45,208
+688,Wireless Mouse,Electronics,16.49,54
+689,USB Cable,Electronics,15.11,296
+690,Backpack,Accessories,34.41,62
+691,Highlighter Set,Stationery,6.17,433
+692,Notebook,Stationery,16.37,455
+693,Backpack,Accessories,36.3,495
+694,Highlighter Set,Stationery,5.6,211
+695,Notebook,Stationery,13.51,433
+696,Desk Lamp,Home & Living,23.36,322
+697,Backpack,Accessories,34.91,365
+698,USB Cable,Electronics,15.06,87
+699,Desk Lamp,Home & Living,24.46,213
+700,Pen Set,Stationery,11.77,48
+701,Wireless Mouse,Electronics,13.74,227
+702,Smartphone Case,Electronics,10.95,261
+703,Highlighter Set,Stationery,6.35,169
+704,Water Bottle,Home & Living,10.2,155
+705,Water Bottle,Home & Living,9.37,161
+706,Desk Lamp,Home & Living,23.74,18
+707,Pen Set,Stationery,12.05,400
+708,Bluetooth Speaker,Electronics,18.53,239
+709,Desk Lamp,Home & Living,23.27,435
+710,Desk Lamp,Home & Living,23.95,237
+711,USB Cable,Electronics,14.74,88
+712,Wireless Mouse,Electronics,15.41,210
+713,Bluetooth Speaker,Electronics,21.74,39
+714,USB Cable,Electronics,17.29,383
+715,Notebook,Stationery,15.57,204
+716,USB Cable,Electronics,15.46,211
+717,Bluetooth Speaker,Electronics,19.28,77
+718,Pen Set,Stationery,12.3,318
+719,Highlighter Set,Stationery,6.24,385
+720,Bluetooth Speaker,Electronics,21.78,151
+721,Pen Set,Stationery,12.01,55
+722,Pen Set,Stationery,13.56,179
+723,Pen Set,Stationery,12.48,435
+724,USB Cable,Electronics,16.09,388
+725,Desk Lamp,Home & Living,23.21,142
+726,Highlighter Set,Stationery,6.42,245
+727,Highlighter Set,Stationery,5.87,349
+728,Highlighter Set,Stationery,5.59,185
+729,Notebook,Stationery,13.77,42
+730,Desk Lamp,Home & Living,22.22,373
+731,Desk Lamp,Home & Living,21.84,364
+732,Bluetooth Speaker,Electronics,20.37,147
+733,USB Cable,Electronics,16.93,401
+734,Highlighter Set,Stationery,5.42,248
+735,Wireless Mouse,Electronics,15.51,477
+736,Desk Lamp,Home & Living,22.58,138
+737,Bluetooth Speaker,Electronics,19.02,177
+738,Pen Set,Stationery,14.2,89
+739,USB Cable,Electronics,15.01,396
+740,Bluetooth Speaker,Electronics,21.07,159
+741,Highlighter Set,Stationery,6.34,290
+742,Desk Lamp,Home & Living,21.33,252
+743,Notebook,Stationery,16.03,290
+744,Notebook,Stationery,15.23,320
+745,Desk Lamp,Home & Living,24.02,154
+746,Desk Lamp,Home & Living,22.7,242
+747,Desk Lamp,Home & Living,20.6,471
+748,Water Bottle,Home & Living,9.82,146
+749,Pen Set,Stationery,11.94,336
+750,Smartphone Case,Electronics,9.45,467
+751,Bluetooth Speaker,Electronics,20.55,417
+752,Highlighter Set,Stationery,5.59,26
+753,Water Bottle,Home & Living,10.36,266
+754,Smartphone Case,Electronics,10.27,477
+755,Bluetooth Speaker,Electronics,18.53,139
+756,Pen Set,Stationery,14.13,44
+757,USB Cable,Electronics,17.44,368
+758,USB Cable,Electronics,14.45,310
+759,USB Cable,Electronics,16.88,130
+760,Pen Set,Stationery,12.8,292
+761,USB Cable,Electronics,17.32,334
+762,Desk Lamp,Home & Living,23.06,203
+763,Notebook,Stationery,14.23,210
+764,Smartphone Case,Electronics,10.51,69
+765,Wireless Mouse,Electronics,14.96,18
+766,Desk Lamp,Home & Living,24.31,143
+767,Notebook,Stationery,16.17,353
+768,Notebook,Stationery,15.99,262
+769,Backpack,Accessories,37.96,202
+770,Desk Lamp,Home & Living,23.5,311
+771,Highlighter Set,Stationery,5.42,78
+772,Wireless Mouse,Electronics,15.7,153
+773,Pen Set,Stationery,12.21,369
+774,Pen Set,Stationery,11.74,393
+775,Pen Set,Stationery,12.99,390
+776,Smartphone Case,Electronics,10.23,61
+777,Notebook,Stationery,14.0,228
+778,Bluetooth Speaker,Electronics,20.31,304
+779,Pen Set,Stationery,13.18,167
+780,Bluetooth Speaker,Electronics,19.55,154
+781,Bluetooth Speaker,Electronics,21.4,87
+782,Pen Set,Stationery,11.99,294
+783,Wireless Mouse,Electronics,15.49,99
+784,Bluetooth Speaker,Electronics,18.29,348
+785,USB Cable,Electronics,16.71,216
+786,Backpack,Accessories,36.23,209
+787,Water Bottle,Home & Living,10.01,347
+788,Highlighter Set,Stationery,6.26,275
+789,Water Bottle,Home & Living,10.77,423
+790,Backpack,Accessories,34.6,453
+791,Wireless Mouse,Electronics,14.82,243
+792,Notebook,Stationery,13.62,157
+793,Backpack,Accessories,38.02,433
+794,Wireless Mouse,Electronics,15.58,308
+795,Smartphone Case,Electronics,9.58,96
+796,Backpack,Accessories,36.75,65
+797,Water Bottle,Home & Living,9.64,466
+798,Highlighter Set,Stationery,5.77,29
+799,Pen Set,Stationery,13.29,15
+800,Smartphone Case,Electronics,10.84,126
+801,Highlighter Set,Stationery,5.48,274
+802,Desk Lamp,Home & Living,24.28,283
+803,Notebook,Stationery,15.22,371
+804,Bluetooth Speaker,Electronics,21.4,428
+805,Pen Set,Stationery,12.35,122
+806,USB Cable,Electronics,16.24,174
+807,Water Bottle,Home & Living,10.19,331
+808,Pen Set,Stationery,12.79,206
+809,USB Cable,Electronics,15.93,74
+810,Pen Set,Stationery,13.48,459
+811,Smartphone Case,Electronics,10.15,321
+812,Backpack,Accessories,34.87,94
+813,Bluetooth Speaker,Electronics,19.72,56
+814,USB Cable,Electronics,14.86,29
+815,Highlighter Set,Stationery,6.19,157
+816,Smartphone Case,Electronics,10.11,318
+817,USB Cable,Electronics,14.96,185
+818,Pen Set,Stationery,12.65,224
+819,Desk Lamp,Home & Living,22.72,12
+820,Bluetooth Speaker,Electronics,20.34,122
+821,USB Cable,Electronics,17.1,148
+822,Wireless Mouse,Electronics,16.09,347
+823,Highlighter Set,Stationery,5.82,54
+824,Notebook,Stationery,15.02,495
+825,USB Cable,Electronics,16.97,411
+826,Desk Lamp,Home & Living,21.97,104
+827,Bluetooth Speaker,Electronics,18.44,431
+828,Highlighter Set,Stationery,6.02,110
+829,Backpack,Accessories,32.25,424
+830,Pen Set,Stationery,13.71,142
+831,Pen Set,Stationery,11.83,62
+832,Pen Set,Stationery,13.17,101
+833,Wireless Mouse,Electronics,14.85,307
+834,Pen Set,Stationery,13.61,80
+835,Bluetooth Speaker,Electronics,21.04,228
+836,Pen Set,Stationery,12.67,295
+837,Bluetooth Speaker,Electronics,20.88,176
+838,Notebook,Stationery,14.85,267
+839,Bluetooth Speaker,Electronics,18.12,453
+840,Pen Set,Stationery,13.93,158
+841,Pen Set,Stationery,13.21,170
+842,Smartphone Case,Electronics,9.02,14
+843,Wireless Mouse,Electronics,16.25,215
+844,Highlighter Set,Stationery,5.94,225
+845,Smartphone Case,Electronics,9.47,372
+846,USB Cable,Electronics,15.97,437
+847,USB Cable,Electronics,16.26,228
+848,Backpack,Accessories,38.31,283
+849,Pen Set,Stationery,11.75,37
+850,Backpack,Accessories,36.01,144
+851,Pen Set,Stationery,13.72,282
+852,Wireless Mouse,Electronics,15.75,29
+853,Highlighter Set,Stationery,5.62,488
+854,Smartphone Case,Electronics,9.96,280
+855,Bluetooth Speaker,Electronics,21.92,80
+856,Smartphone Case,Electronics,10.19,30
+857,Pen Set,Stationery,13.18,58
+858,Water Bottle,Home & Living,10.35,417
+859,Pen Set,Stationery,12.34,27
+860,Pen Set,Stationery,12.57,319
+861,USB Cable,Electronics,15.56,421
+862,Backpack,Accessories,34.36,24
+863,Wireless Mouse,Electronics,15.37,400
+864,Smartphone Case,Electronics,10.28,190
+865,Bluetooth Speaker,Electronics,19.09,220
+866,Wireless Mouse,Electronics,14.97,219
+867,Water Bottle,Home & Living,10.97,58
+868,Wireless Mouse,Electronics,15.1,143
+869,Backpack,Accessories,36.71,248
+870,Notebook,Stationery,14.87,329
+871,Smartphone Case,Electronics,9.59,287
+872,Backpack,Accessories,31.55,23
+873,Backpack,Accessories,36.47,304
+874,Pen Set,Stationery,13.62,117
+875,Bluetooth Speaker,Electronics,20.01,161
+876,Pen Set,Stationery,13.06,386
+877,Desk Lamp,Home & Living,22.98,359
+878,Bluetooth Speaker,Electronics,20.43,299
+879,Wireless Mouse,Electronics,14.65,19
+880,Backpack,Accessories,37.66,499
+881,Backpack,Accessories,31.87,130
+882,Pen Set,Stationery,12.06,162
+883,Backpack,Accessories,32.82,490
+884,Highlighter Set,Stationery,5.64,462
+885,Smartphone Case,Electronics,9.28,42
+886,Highlighter Set,Stationery,6.22,471
+887,Backpack,Accessories,36.54,173
+888,Desk Lamp,Home & Living,20.62,473
+889,Water Bottle,Home & Living,10.32,371
+890,Smartphone Case,Electronics,10.58,484
+891,Highlighter Set,Stationery,5.41,373
+892,Notebook,Stationery,16.0,400
+893,Backpack,Accessories,32.57,95
+894,Water Bottle,Home & Living,9.52,200
+895,Notebook,Stationery,15.04,483
+896,Backpack,Accessories,33.14,230
+897,Notebook,Stationery,15.93,63
+898,Notebook,Stationery,14.74,28
+899,Backpack,Accessories,36.6,117
+900,Water Bottle,Home & Living,10.22,376
+901,Backpack,Accessories,32.46,236
+902,Notebook,Stationery,13.71,291
+903,Smartphone Case,Electronics,9.51,125
+904,Backpack,Accessories,32.23,119
+905,Notebook,Stationery,16.3,13
+906,Bluetooth Speaker,Electronics,18.87,314
+907,Smartphone Case,Electronics,9.16,83
+908,Notebook,Stationery,14.62,414
+909,Notebook,Stationery,15.52,258
+910,Smartphone Case,Electronics,10.9,449
+911,Backpack,Accessories,36.93,443
+912,Smartphone Case,Electronics,9.72,486
+913,Notebook,Stationery,15.63,88
+914,Notebook,Stationery,14.58,264
+915,Wireless Mouse,Electronics,14.83,132
+916,Wireless Mouse,Electronics,14.3,399
+917,Desk Lamp,Home & Living,22.12,396
+918,Bluetooth Speaker,Electronics,18.84,220
+919,Highlighter Set,Stationery,6.31,23
+920,USB Cable,Electronics,17.58,181
+921,Pen Set,Stationery,12.13,49
+922,Smartphone Case,Electronics,10.25,443
+923,USB Cable,Electronics,16.74,332
+924,Pen Set,Stationery,14.09,391
+925,Water Bottle,Home & Living,10.79,234
+926,Desk Lamp,Home & Living,23.81,279
+927,Wireless Mouse,Electronics,14.19,346
+928,Smartphone Case,Electronics,10.45,173
+929,USB Cable,Electronics,15.54,325
+930,Backpack,Accessories,35.0,440
+931,USB Cable,Electronics,15.44,422
+932,Notebook,Stationery,14.95,322
+933,USB Cable,Electronics,16.12,151
+934,USB Cable,Electronics,16.15,382
+935,Pen Set,Stationery,12.62,248
+936,Notebook,Stationery,15.13,107
+937,Desk Lamp,Home & Living,24.08,491
+938,Bluetooth Speaker,Electronics,19.64,460
+939,Highlighter Set,Stationery,6.09,120
+940,Bluetooth Speaker,Electronics,20.52,319
+941,Pen Set,Stationery,13.23,163
+942,USB Cable,Electronics,16.47,478
+943,Highlighter Set,Stationery,5.51,406
+944,Desk Lamp,Home & Living,23.8,210
+945,Desk Lamp,Home & Living,22.89,96
+946,Pen Set,Stationery,13.91,377
+947,USB Cable,Electronics,16.62,306
+948,Highlighter Set,Stationery,5.44,118
+949,Pen Set,Stationery,11.96,31
+950,Wireless Mouse,Electronics,14.32,65
+951,Desk Lamp,Home & Living,23.36,361
+952,Desk Lamp,Home & Living,22.53,247
+953,Notebook,Stationery,13.99,201
+954,Wireless Mouse,Electronics,13.67,343
+955,Bluetooth Speaker,Electronics,18.37,236
+956,Highlighter Set,Stationery,5.55,260
+957,USB Cable,Electronics,15.93,434
+958,Smartphone Case,Electronics,9.25,245
+959,Highlighter Set,Stationery,5.87,18
+960,Water Bottle,Home & Living,9.68,226
+961,Notebook,Stationery,15.22,46
+962,USB Cable,Electronics,15.04,365
+963,Backpack,Accessories,35.86,112
+964,Desk Lamp,Home & Living,24.61,46
+965,Highlighter Set,Stationery,6.24,280
+966,Wireless Mouse,Electronics,14.54,430
+967,Bluetooth Speaker,Electronics,18.77,197
+968,Smartphone Case,Electronics,10.27,315
+969,Wireless Mouse,Electronics,14.99,493
+970,Water Bottle,Home & Living,10.18,28
+971,Highlighter Set,Stationery,6.54,470
+972,Highlighter Set,Stationery,6.52,402
+973,Backpack,Accessories,33.79,191
+974,Notebook,Stationery,14.71,38
+975,USB Cable,Electronics,15.95,480
+976,Desk Lamp,Home & Living,20.59,496
+977,Notebook,Stationery,15.58,251
+978,USB Cable,Electronics,17.42,243
+979,Smartphone Case,Electronics,9.02,493
+980,Water Bottle,Home & Living,9.36,349
+981,USB Cable,Electronics,14.84,428
+982,Bluetooth Speaker,Electronics,20.94,79
+983,Backpack,Accessories,35.84,362
+984,Notebook,Stationery,15.4,357
+985,Smartphone Case,Electronics,10.51,491
+986,Smartphone Case,Electronics,10.77,443
+987,USB Cable,Electronics,15.03,88
+988,Notebook,Stationery,15.94,450
+989,Notebook,Stationery,16.31,436
+990,Water Bottle,Home & Living,9.38,102
+991,USB Cable,Electronics,16.6,464
+992,Bluetooth Speaker,Electronics,18.77,475
+993,USB Cable,Electronics,17.29,453
+994,Bluetooth Speaker,Electronics,18.22,345
+995,Notebook,Stationery,13.8,60
+996,Smartphone Case,Electronics,9.8,414
+997,Desk Lamp,Home & Living,24.15,465
+998,Notebook,Stationery,14.75,214
+999,Notebook,Stationery,15.74,386
+1000,Water Bottle,Home & Living,9.23,362
+1001,Smartphone Case,Electronics,9.69,63
+1002,Pen Set,Stationery,13.06,273
+1003,Backpack,Accessories,33.5,14
+1004,Wireless Mouse,Electronics,14.02,50
+1005,Notebook,Stationery,15.15,261
+1006,Desk Lamp,Home & Living,24.2,228
+1007,Highlighter Set,Stationery,5.81,217
+1008,Wireless Mouse,Electronics,13.62,203
+1009,Wireless Mouse,Electronics,15.84,367
+1010,Pen Set,Stationery,14.2,441
+1011,Backpack,Accessories,31.65,154
+1012,Backpack,Accessories,35.01,227
+1013,Water Bottle,Home & Living,9.68,207
+1014,Bluetooth Speaker,Electronics,18.3,337
+1015,Bluetooth Speaker,Electronics,21.65,183
+1016,Water Bottle,Home & Living,9.04,498
+1017,USB Cable,Electronics,16.93,149
+1018,Water Bottle,Home & Living,9.51,334
+1019,USB Cable,Electronics,16.29,50
+1020,USB Cable,Electronics,14.71,318
+1021,Highlighter Set,Stationery,5.7,219
+1022,Notebook,Stationery,15.83,417
+1023,Water Bottle,Home & Living,9.88,285
+1024,Backpack,Accessories,32.5,433
+1025,USB Cable,Electronics,17.02,391
+1026,USB Cable,Electronics,15.6,207
+1027,Smartphone Case,Electronics,10.06,83
+1028,USB Cable,Electronics,15.4,371
+1029,Wireless Mouse,Electronics,13.53,481
+1030,Bluetooth Speaker,Electronics,19.34,454
+1031,Water Bottle,Home & Living,10.76,290
+1032,Backpack,Accessories,32.86,105
+1033,Wireless Mouse,Electronics,14.45,448
+1034,USB Cable,Electronics,16.61,222
+1035,Highlighter Set,Stationery,5.58,421
+1036,Water Bottle,Home & Living,9.29,174
+1037,Backpack,Accessories,38.25,475
+1038,Notebook,Stationery,16.15,65
+1039,Wireless Mouse,Electronics,15.54,178
+1040,Notebook,Stationery,13.54,174
+1041,Highlighter Set,Stationery,5.54,124
+1042,Wireless Mouse,Electronics,15.41,449
+1043,Pen Set,Stationery,12.91,313
+1044,Bluetooth Speaker,Electronics,19.13,59
+1045,Notebook,Stationery,14.67,190
+1046,Highlighter Set,Stationery,5.98,460
+1047,Desk Lamp,Home & Living,21.35,331
+1048,Highlighter Set,Stationery,6.32,176
+1049,USB Cable,Electronics,16.7,416
+1050,Desk Lamp,Home & Living,22.15,347
+1051,Bluetooth Speaker,Electronics,21.62,392
+1052,Desk Lamp,Home & Living,21.48,169
+1053,Desk Lamp,Home & Living,21.86,425
+1054,Bluetooth Speaker,Electronics,19.04,243
+1055,Pen Set,Stationery,13.5,223
+1056,Wireless Mouse,Electronics,15.1,94
+1057,Wireless Mouse,Electronics,14.5,418
+1058,Desk Lamp,Home & Living,22.12,42
+1059,Notebook,Stationery,14.57,333
+1060,Wireless Mouse,Electronics,16.33,409
+1061,Highlighter Set,Stationery,5.4,470
+1062,Notebook,Stationery,13.69,272
+1063,Pen Set,Stationery,14.11,82
+1064,USB Cable,Electronics,16.75,327
+1065,Notebook,Stationery,13.51,335
+1066,USB Cable,Electronics,16.02,138
+1067,Water Bottle,Home & Living,9.74,114
+1068,Highlighter Set,Stationery,6.56,180
+1069,Smartphone Case,Electronics,9.34,489
+1070,Backpack,Accessories,34.88,303
+1071,Highlighter Set,Stationery,5.51,160
+1072,Smartphone Case,Electronics,10.4,306
+1073,Highlighter Set,Stationery,5.76,494
+1074,Smartphone Case,Electronics,10.82,208
+1075,Pen Set,Stationery,12.53,448
+1076,USB Cable,Electronics,14.42,193
+1077,Desk Lamp,Home & Living,21.33,301
+1078,Backpack,Accessories,38.16,201
+1079,Bluetooth Speaker,Electronics,18.71,430
+1080,Notebook,Stationery,15.89,64
+1081,Smartphone Case,Electronics,9.15,343
+1082,Wireless Mouse,Electronics,14.25,459
+1083,Bluetooth Speaker,Electronics,19.4,116
+1084,Water Bottle,Home & Living,10.26,225
+1085,Pen Set,Stationery,14.03,268
+1086,Highlighter Set,Stationery,5.83,77
+1087,USB Cable,Electronics,16.84,233
+1088,Highlighter Set,Stationery,5.55,82
+1089,Pen Set,Stationery,12.51,411
+1090,Backpack,Accessories,35.1,204
+1091,Notebook,Stationery,13.93,102
+1092,Desk Lamp,Home & Living,23.15,404
+1093,Highlighter Set,Stationery,6.51,392
+1094,Pen Set,Stationery,13.74,388
+1095,Bluetooth Speaker,Electronics,19.93,287
+1096,Notebook,Stationery,13.57,72
+1097,Highlighter Set,Stationery,6.53,417
+1098,Smartphone Case,Electronics,10.05,168
+1099,Highlighter Set,Stationery,5.46,211
+1100,Water Bottle,Home & Living,10.29,96

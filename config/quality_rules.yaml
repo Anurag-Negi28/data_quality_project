@@ -1,0 +1,83 @@
+# Data Quality Rules Configuration
+datasets:
+  customers:
+    columns:
+      customer_id:
+        - rule_type: "not_null"
+          description: "Customer ID cannot be null"
+        - rule_type: "unique"
+          description: "Customer ID must be unique"
+        - rule_type: "data_type"
+          expected_type: "int64"
+          description: "Customer ID must be integer"
+
+      name:
+        - rule_type: "not_null"
+          description: "Customer name cannot be null"
+        - rule_type: "min_length"
+          min_value: 2
+          description: "Name must be at least 2 characters"
+
+      email:
+        - rule_type: "not_null"
+          description: "Email cannot be null"
+        - rule_type: "regex"
+          pattern: "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+          description: "Email must be valid format"
+
+      age:
+        - rule_type: "not_null"
+          description: "Age cannot be null"
+        - rule_type: "range"
+          min_value: 0
+          max_value: 120
+          description: "Age must be between 0 and 120"
+
+      city:
+        - rule_type: "not_null"
+          description: "City cannot be null"
+
+  orders:
+    columns:
+      order_id:
+        - rule_type: "not_null"
+          description: "Order ID cannot be null"
+        - rule_type: "unique"
+          description: "Order ID must be unique"
+
+      customer_id:
+        - rule_type: "not_null"
+          description: "Customer ID cannot be null"
+        - rule_type: "reference_integrity"
+          reference_table: "customers"
+          reference_column: "customer_id"
+          description: "Customer ID must exist in customers table"
+
+      quantity:
+        - rule_type: "range"
+          min_value: 1
+          max_value: 1000
+          description: "Quantity must be between 1 and 1000"
+
+      total_amount:
+        - rule_type: "range"
+          min_value: 0
+          description: "Total amount must be positive"
+
+  products:
+    columns:
+      product_id:
+        - rule_type: "not_null"
+          description: "Product ID cannot be null"
+        - rule_type: "unique"
+          description: "Product ID must be unique"
+
+      price:
+        - rule_type: "range"
+          min_value: 0
+          description: "Price must be positive"
+
+      stock_quantity:
+        - rule_type: "range"
+          min_value: 0
+          description: "Stock quantity cannot be negative"
