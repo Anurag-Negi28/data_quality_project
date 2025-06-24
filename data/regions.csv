@@ -1,0 +1,17 @@
+city,region,country,population
+New York,North,United States,1433912
+Boston,North,United States,709805
+Philadelphia,North,United States,2807113
+Chicago,North,United States,2554301
+Houston,South,United States,2372427
+Dallas,South,United States,1670528
+San Antonio,South,United States,1359791
+Phoenix,South,United States,1229295
+Miami,East,United States,4039336
+Atlanta,East,United States,766612
+Washington,East,United States,749957
+Baltimore,East,United States,1285972
+Los Angeles,West,United States,2334068
+San Francisco,West,United States,2451701
+Seattle,West,United States,4739227
+San Diego,West,United States,722599
